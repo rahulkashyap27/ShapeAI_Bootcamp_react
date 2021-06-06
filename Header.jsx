@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
         <h1>
-          Utkarsh Maurya
+          Rahul Kashyap
         </h1>
     </header>
   );
